@@ -5,7 +5,7 @@
 
 - Submitted: 1/30/2024
 
-    ##### [Netlify Live Link](Netlify link here)
+    ##### [Netlify Live Link](https://inquisitive-cassata-704276.netlify.app/)
 
     ##### [GitHub Link of React Version](https://github.com/HichamBenkada/React_FashionBlog.git)
 
@@ -15,7 +15,7 @@
 
 # Introduction:
 
-This project is to demonstrate my ability to create a HTML&CSS  web page application layout from a given mockup, convert it into React and use the React components to create a desired layout.
+This project is to demonstrate my ability to create a _HTML&CSS_  web page application layout from a given mockup, convert it into _React_ and use the React components to create a desired layout.
 
 # Objectives:
 
@@ -33,16 +33,16 @@ In this project I have created a Fashion Blog web page with React, and the proce
  
  - Uploading the completed work to github using git version control
  
- - Deploying the project on GitHub pages is completed,[Click here](https://hichambenkada.github.io/HTML-CSS_FashionPage/) to open the link
+ - Deploying the project on GitHub pages is completed, [Click here](https://hichambenkada.github.io/HTML-CSS_FashionPage/) to open the link
 
 
 #### _REACT_
-- Rebuilding the same web application with React:
+- Rebuilding the same web application with React
 
 - Uploading the project to GitHub:
-    [Click here]() to open the link
+    [Click here](https://github.com/HichamBenkada/React_FashionBlog.git) to open the link
 - Deploying it to Netlify:
-    [Click here]() to open the link
+    [Click here](https://inquisitive-cassata-704276.netlify.app/) to open the link
 
 
 _Thank you!_ 
