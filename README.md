@@ -27,22 +27,33 @@ In this project I have created a Fashion Blog web page with React, and the proce
 
 ## Implementation:
 
-#### _HTML & CSS_:
+#### Part1: _HTML & CSS Application_:
 
- - Building the web application locally using only plain HTML and CSS
+ - Building the web application locally using only plain HTML and CSS. The project include:
+    - _index.HTML_: This file contain the Fashion Blog web page application layout, which include
+        - The header: This HTML element holds the company title, subtitle and the navigation bar
+        - The main section: This element holds the published articl in the page 
+        - The footer of the bage and holds the navigation bar components and the capyright statement of the page.
  
  - Uploading the completed work to github using git version control
  
- - Deploying the project on GitHub pages is completed, [Click here](https://hichambenkada.github.io/HTML-CSS_FashionPage/) to open the link
+ - Deploying the project on GitHub pages is completed
 
 
-#### _REACT_
-- Rebuilding the same web application with React
+#### Part2: _REACT Application_:
 
-- Uploading the project to GitHub:
-    [Click here](https://github.com/HichamBenkada/React_FashionBlog.git) to open the link
-- Deploying it to Netlify:
-    [Click here](https://inquisitive-cassata-704276.netlify.app/) to open the link
+- Rebuilding the same web application with React:
+    - Web application folder is created using Vite@latest
+    - initial layout are modified to include the following components
+        - _Nav_: This is a reusable navigation bar component, and holds the URL list for the page
+        - _Header_: This is the header of the page, and holds the Company header, the subtitle and the navigation bar component
+        - _Section_: This is a reusable section component that holds an articl post of the web page 
+        - _Footer_: This is the footer of the bage and holds the navigation bar components and the capyright statement of the page.
+- Uploading the project to GitHub: ...Completed! 
+- Deploying it to Netlify: ...Completed!
 
+
+### Completion:
+The final components of this project are successfully completed and tested for functionality. a _HTML & CSS_ and a React Repositories are pushed to GitHub and deployed in Github pages and Netlify
 
 _Thank you!_ 
