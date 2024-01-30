@@ -1,14 +1,15 @@
 # ALAB 320H.1.2 - React Fashion Blog
 
 
-Assigned: 1/29/2024:
-Submitted: 1/30/2024
+- Assigned: 1/29/2024
+
+- Submitted: 1/30/2024
 
 ### [Netlify Live Link](Netlify link here)
 
-### [GitHub Pages Live Link](GitHub Pages link of HTML version)
+### [GitHub Pages Live Link](https://hichambenkada.github.io/HTML-CSS_FashionPage/)
 
-### [GitHub Link of HTML Version](GitHub link for HTML version)
+### [GitHub Link of HTML Version](https://github.com/HichamBenkada/HTML-CSS_FashionPage.git)
 
 # Introduction:
 
@@ -30,7 +31,7 @@ In this project I have created a Fashion Blog web page with React, and the proce
  
  - Uploading the completed work to github using git version control
  
- - Deploying the project on GitHub pages is completed,[Click here]() to open the link
+ - Deploying the project on GitHub pages is completed,[Click here](https://hichambenkada.github.io/HTML-CSS_FashionPage/) to open the link
 
 
 #### _REACT_
