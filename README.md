@@ -5,15 +5,17 @@
 
 - Submitted: 1/30/2024
 
-### [Netlify Live Link](Netlify link here)
+    ##### [Netlify Live Link](Netlify link here)
 
-### [GitHub Pages Live Link](https://hichambenkada.github.io/HTML-CSS_FashionPage/)
+    ##### [GitHub Link of React Version](https://github.com/HichamBenkada/React_FashionBlog.git)
 
-### [GitHub Link of HTML Version](https://github.com/HichamBenkada/HTML-CSS_FashionPage.git)
+    ##### [GitHub Pages Live Link](https://hichambenkada.github.io/HTML-CSS_FashionPage/)
+
+    ##### [GitHub Link of HTML Version](https://github.com/HichamBenkada/HTML-CSS_FashionPage.git)
 
 # Introduction:
 
-This project is to demonstrate my ability to create an HTML/CSS page from a given mockup, convert an HTML/CSS page into React and Style React components to create a desired layout.
+This project is to demonstrate my ability to create a HTML&CSS  web page application layout from a given mockup, convert it into React and use the React components to create a desired layout.
 
 # Objectives:
 
