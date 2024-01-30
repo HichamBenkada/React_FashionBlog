@@ -20,4 +20,26 @@ In this project I have created a Fashion Blog web page with React, and the proce
 
 1. Building the web application locally using only plain HTML and CSS, uploading the completed work to github using git version control and deploying the project on GitHub pages
 
-2. Rebuilding the same web application with React, uploading the project to GitHub and deploy it to Netlify
+2. Rebuilding the same web application with React, uploading the project to GitHub and deploying it to Netlify
+
+## Implementation:
+
+#### _HTML & CSS_:
+
+ - Building the web application locally using only plain HTML and CSS
+ 
+ - Uploading the completed work to github using git version control
+ 
+ - Deploying the project on GitHub pages is completed,[Click here]() to open the link
+
+
+#### _REACT_
+- Rebuilding the same web application with React:
+
+- Uploading the project to GitHub:
+    [Click here]() to open the link
+- Deploying it to Netlify:
+    [Click here]() to open the link
+
+
+_Thank you!_ 
